@@ -24,7 +24,7 @@ It uses the **Responses API** with **streaming** support and includes a **🧹 C
 Clone this repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/streamlit-openai-chat.git
+git clone https://github.com/MottaDavide/streamlit-openai-chat.git
 cd streamlit-openai-chat
 ```
 
