@@ -9,7 +9,7 @@ It uses the **Responses API** with **streaming** support and includes a **🧹 C
 - Simple chat UI powered by Streamlit’s `st.chat_message`.
 - Sidebar controls:
   - Select the model (default: `gpt-5-nano`)
-  - Adjust verbosity and reasoning effort
+  - Adjust verbosity and reasoning effort.
   - **Clean chat** button to reset history.
 - Conversation history persisted in `st.session_state`.
 - **Streaming responses** (assistant reply updates token by token).
